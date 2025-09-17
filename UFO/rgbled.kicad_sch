@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "e00a70bb-3678-4a74-98d0-796404f73c2b")
 	(paper "A3")
+	(title_block
+		(title "RGB Matrix")
+		(date "2025-07-25")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "ScottoKeebs:LED_SK6812MINI"
 			(pin_names

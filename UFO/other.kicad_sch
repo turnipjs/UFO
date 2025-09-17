@@ -6,6 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Other Electronics")
+		(date "2025-07-25")
+		(rev "1")
 	)
 	(lib_symbols
 		(symbol "ScottoKeebs:MCU_Raspberry_Pi_Pico"
